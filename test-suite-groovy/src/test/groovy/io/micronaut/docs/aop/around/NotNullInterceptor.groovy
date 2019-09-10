@@ -1,4 +1,5 @@
 package io.micronaut.docs.aop.around
+//GROOVY EXAMPLE
 
 // tag::imports[]
 
